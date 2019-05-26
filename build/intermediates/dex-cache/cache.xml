@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.3.0_dacf14686aaad002600bd6a2d817b12d1451df4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_cd3c1017a6c2728ea5bfa9b202168f3a7ccf9361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_150da79ebedcd1e816e48a7e2901b2981dd2c2ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_3266894222364f5f760c7ef3ab0b6140e5b61557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_10781974e3818abc2ccdcff93bdde769afd3a63d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.3.0_42eaba04c4d103b0b87b7b1f381cc5c85d845e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_efade5ed2404f2044903db8b95386d1abd1f6a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_1a1c1fd01efb0e9d08d078519115077ac25fd241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_d522c44e4c2df88424e2ccca14d80b4492f64858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\mahmo\OneDrive\Desktop\Miwok0\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.3_0e29d46124b365e36aeed01c37c2bedd97129103.jar" />
+    </item>
+
+</items>
