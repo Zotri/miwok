@@ -30,11 +30,13 @@ public class ColorsActivity extends AppCompatActivity {
         colors.add(white);
         colors.add(dusty_yellow);
         colors.add(mustard_yellow);
+        //color
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.fragment_color);
+        System.out.println("mimo");
 
-        ListView list_color_View = (ListView) findViewById(R.id.fragment_view_Color);
+        ListView list_color_View =  findViewById(R.id.fragment_view_Color);
         CustomerListAdapter adapter = new CustomerListAdapter(this,R.layout.adapter_view_layout,colors);
         list_color_View.setAdapter(adapter);
 

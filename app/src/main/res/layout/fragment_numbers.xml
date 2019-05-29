@@ -8,6 +8,8 @@
     <ListView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/fragment_view_numbers"/>
+        android:id="@+id/fragment_view_numbers"
+        android:background="@color/category_numbers"
+        />
 
 </FrameLayout>

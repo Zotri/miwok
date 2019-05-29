@@ -16,7 +16,6 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/text_layout"
         android:orientation="vertical">
 
         <TextView
@@ -27,6 +26,7 @@
             android:paddingTop="16dp"
             android:paddingBottom="16dp"
             android:text="@string/word"
+            android:background="@color/category_family"
             style="@style/CategoryStyle"
             />
 
@@ -34,6 +34,7 @@
             android:id="@+id/textTranslation"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@color/category_family"
             android:paddingLeft="5dp"
             android:paddingTop="16dp"
             android:paddingBottom="16dp"
